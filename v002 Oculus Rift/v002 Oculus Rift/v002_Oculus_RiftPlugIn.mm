@@ -320,7 +320,6 @@
 	
 	System::Destroy();
 	
-	[super dealloc];
 }
 
 @end
